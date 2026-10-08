@@ -1,1 +1,1 @@
-aloha
+学习了git的主要使用方法和huggingface下载运行模型的流程
